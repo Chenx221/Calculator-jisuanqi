@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="jisuanqi.exe" version="1.0.0.0" publicKeyToken="5f3362db60c91e5f" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="slapxaxu.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="jisuanqi" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="jisuanqi.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="jisuanqi.exe" size="2182144">
+      <assemblyIdentity name="jisuanqi" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>zkuz5E9oR4wmNuloI85yDVIdRCo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="slapxaxu.ico" size="432254">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AafLZM6v0hcH7o/iDGTf3zN1+04=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Chenx221-PC\Chenx221" issuerKeyHash="b3c51670ab3d08c062257962299b5681ce7f6951" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AXUJAU2AIKGyDAHy5CyJkO6xrCE=</DigestValue></Reference></SignedInfo><SignatureValue>mXXtWMtQMrEDk9Uru3HnHzGtIt07K9IpSfNmA7zVtVZZTkHaex+LQtBhiS3ZxX3e3vjt7XJ8e6EaiPwyaHj4xf6UjHGDgsU/gWOW1iuaW5Gqqaev9hWFC+QqUQGMmq1SNEzsnnJim5+Ebfxo1hSKt/BvtqlGtyd0hm/UKmPNOHY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nRzmSNGgEiwF2FXJiTPAQPioe+qeGODHNcf7B/k423MgfcThogkQyKNdA2p7rMlz0x0fregVWrXhgbdXweOvOfFuemFtyJ3Z4GFOw695FAPbmsfLzJBRERvhzUuERI0ohsgqCyezqV16Mx+oiqM0nSqz+q5NXvHJ+op9KYrONo0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="21acb1ee90892ce4f2010cb2a120804d01097501" Description="" Url=""><as:assemblyIdentity name="jisuanqi.exe" version="1.0.0.0" publicKeyToken="5f3362db60c91e5f" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Chenx221-PC\Chenx221</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>U3aF6swIsUkcX9E4PG0NYaIpRqY=</DigestValue></Reference></SignedInfo><SignatureValue>NjAaNFwZZ7EIze+8pRfegpE4Hdx5GaJQJRVptnfki3dqHvQqD8i130CpUGkfPE2MYvXV419bcKVSW+jddg57VFB0nCLSvXmqm8YVS/u1F7yI6Ls7fiyd7KyeJdcuFRIRvswrgGIAxBtY+TU5yRuQ7tMw/KL7gZwAwhmPwzY0+hg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nRzmSNGgEiwF2FXJiTPAQPioe+qeGODHNcf7B/k423MgfcThogkQyKNdA2p7rMlz0x0fregVWrXhgbdXweOvOfFuemFtyJ3Z4GFOw695FAPbmsfLzJBRERvhzUuERI0ohsgqCyezqV16Mx+oiqM0nSqz+q5NXvHJ+op9KYrONo0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQRv00CIfrWK5ObHQbiOzzxTANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAQwBoAGUAbgB4ADIAMgAxAC0AUABDAFwAQwBoAGUAbgB4ADIAMgAxMB4XDTE4MDkyMjEzMDAxNloXDTE5MDkyMjE5MDAxNlowMzExMC8GA1UEAx4oAEMAaABlAG4AeAAyADIAMQAtAFAAQwBcAEMAaABlAG4AeAAyADIAMTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnRzmSNGgEiwF2FXJiTPAQPioe+qeGODHNcf7B/k423MgfcThogkQyKNdA2p7rMlz0x0fregVWrXhgbdXweOvOfFuemFtyJ3Z4GFOw695FAPbmsfLzJBRERvhzUuERI0ohsgqCyezqV16Mx+oiqM0nSqz+q5NXvHJ+op9KYrONo0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBsP2vwGbohb52A5BMZA4BcnGzCiNmxvzszrnVB8W7UAeptCdSq8eXGBJv368qV7UkUWcXgxj25mssX6NJvHTfLB+H/6au9Ekm6o/l36icq64aeJFodBdJGDqeKpQ1nXkbRhaXFtvuAr+DQ1AVFlEbnLoGNT79vBu9ajnhMR3YDuw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,14 @@
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Release\jisuanqi.exe.manifest
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Release\jisuanqi.application
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Release\jisuanqi.exe
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Release\jisuanqi.pdb
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Release\jisuanqi.xml
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.Form1.resources
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.Form2.resources
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.Resources.resources
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.exe.manifest
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.application
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.exe
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.xml
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Release\jisuanqi.pdb

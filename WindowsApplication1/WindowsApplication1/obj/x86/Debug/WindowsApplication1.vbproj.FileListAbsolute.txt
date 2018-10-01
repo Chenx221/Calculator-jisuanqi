@@ -1,0 +1,14 @@
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Debug\jisuanqi.exe
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Debug\jisuanqi.pdb
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Debug\jisuanqi.xml
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.Form1.resources
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.Form2.resources
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.Resources.resources
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.exe
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.xml
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.pdb
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Debug\jisuanqi.exe.manifest
+H:\codejm\WindowsApplication1\WindowsApplication1\bin\Debug\jisuanqi.application
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.exe.manifest
+H:\codejm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\jisuanqi.application
